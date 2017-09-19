@@ -1,0 +1,2 @@
+# amankan
+file untuk safelink
